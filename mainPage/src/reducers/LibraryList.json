@@ -1,0 +1,91 @@
+[
+    {
+        "id": "0",
+        "title": "Dante article one",
+        "author": "Dante",
+        "description": "Display the first sentence of the poem",
+        "image": "../static/images/Dante-2.jpg",
+        "content": [
+            {"item": 0, "line": "The sentence one of the poem number one, of Dante"},
+            {"item": 1, "line": "The sentence two of the poem number one, of Dante"},
+            {"item": 2, "line": "The sentence three of the poem number one, of Dante"},
+            {"item": 3, "line": "The sentence four of the poem number one, of Dante"} 
+        ]   
+    }, 
+    {
+        "id": "1",
+        "title": "Dante article two",
+        "author": "Dante",
+        "description": "Display the first sentence of the poem",
+        "image": "../static/images/Dante-2.jpg",
+        "content": [
+            {"item": 0, "line": "The sentence one of the poem number two, of Dante"},
+            {"item": 1, "line": "The sentence two of the poem number two, of Dante"},
+            {"item": 2, "line": "The sentence three of the poem number two, of Dante"},
+            {"item": 3, "line": "The sentence four of the poem number two, of Dante"},
+            {"item": 4, "line": "The sentence five of the poem number two, of Dante"},
+            {"item": 5, "line": "The sentence six of the poem number two, of Dante"}  
+        ]       
+    }, 
+    {
+        "id": "2",
+        "title": "Dante article three",
+        "author": "Dante",
+        "description": "Display the first sentence of the poem",
+        "image": "../static/images/Dante-2.jpg",
+        "content": [
+            {"item": 0, "line": "The sentence one of the poem number three, of Dante"},
+            {"item": 1, "line": "The sentence two of the poem number three, of Dante"},
+            {"item": 2, "line": "The sentence three of the poem number three, of Dante"},
+            {"item": 3, "line": "The sentence four of the poem number three, of Dante"},
+            {"item": 4, "line": "The sentence five of the poem number three, of Dante"},
+            {"item": 5, "line": "The sentence six of the poem number three, of Dante"} 
+        ]       
+    }, 
+    {
+        "id": "3",
+        "title": "Dante article four",
+        "author": "Dante",
+        "description": "Display the first sentence of the poem",
+        "image": "../static/images/Dante-2.jpg",
+        "content": [
+            {"item": 0, "line": "The sentence one of the poem number four, of Dante"},
+            {"item": 1, "line": "The sentence two of the poem number four, of Dante"},
+            {"item": 2, "line": "The sentence three of the poem number four, of Dante"},
+            {"item": 3, "line": "The sentence four of the poem number four, of Dante"},
+            {"item": 4, "line": "The sentence five of the poem number four, of Dante"},
+            {"item": 5, "line": "The sentence six of the poem number four, of Dante"} 
+        ]       
+    },
+    {
+        "id": "4",
+        "title": "Dante article four",
+        "author": "Dante",
+        "description": "Display the first sentence of the poem",
+        "image": "../static/images/Dante-2.jpg",
+        "content": [
+            {"item": 0, "line": "The sentence one of the poem number five, of Dante"},
+            {"item": 1, "line": "The sentence two of the poem number five, of Dante"},
+            {"item": 2, "line": "The sentence three of the poem number five, of Dante"},
+            {"item": 3, "line": "The sentence four of the poem number five, of Dante"},
+            {"item": 4, "line": "The sentence five of the poem number five, of Dante"},
+            {"item": 5, "line": "The sentence six of the poem number five, of Dante"} 
+        ]     
+    },
+    {
+        "id": "5",
+        "title": "Dante article four",
+        "author": "Dante",
+        "description": "Display the first sentence of the poem",
+        "image": "../static/images/Dante-2.jpg",
+        "content": [
+            {"item": 0, "line": "The sentence one of the poem number six, of Dante"},
+            {"item": 1, "line": "The sentence two of the poem number six, of Dante"},
+            {"item": 2, "line": "The sentence three of the poem number six, of Dante"},
+            {"item": 3, "line": "The sentence four of the poem number six, of Dante"},
+            {"item": 4, "line": "The sentence five of the poem number six, of Dante"},
+            {"item": 5, "line": "The sentence six of the poem number six, of Dante"} 
+        ]        
+    }
+]
+
